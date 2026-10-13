@@ -1,0 +1,6 @@
+{
+  "name": "ENIA AI — Your Intelligent Assistant",
+  "description": "ENIA AI — a modern AI assistant powered by Gemini with voice input and text-to-speech.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
